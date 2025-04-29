@@ -26,8 +26,7 @@ SmartSolve is an interactive web-based application designed to help users solve 
 
 ### 📸 Demo
 
-![Preview](https://github.com/Shatakshi033/EasyTranslate-Language-Translator-Web-App/blob/main/Screenshot%20(10).png)
-![Preview](https://github.com/Shatakshi033/EasyTranslate-Language-Translator-Web-App/blob/main/Screenshot%20(9).png)
+![Preview](https://github.com/Shatakshi033/SmartSolve/blob/main/Screenshot%20(13).png)
 
 ## How It Works
 
@@ -43,4 +42,4 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/SmartSolve.git
+   git clone https://github.com/Shatakshi033/SmartSolve.git
